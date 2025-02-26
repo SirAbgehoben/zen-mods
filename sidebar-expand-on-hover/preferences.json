@@ -6,6 +6,12 @@
       "defaultValue": true
     },
     {
+      "property": "theme.sidebar_expand_on_hover.rounded_right_corners",
+      "label": "Round only right sidebar corners",
+      "type": "checkbox",
+      "defaultValue": false
+    },
+    {
       "property": "theme.sidebar_expand_on_hover.custom_background",
       "label": "My theme overwrites the #TabsToolbar background (e.g. catppuccin)",
       "type": "checkbox",
@@ -41,4 +47,4 @@
       "type": "string",
       "defaultValue": "120ms"
     }
-  ]
+]
